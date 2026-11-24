@@ -4,7 +4,7 @@ import RestartAltIcon from "@mui/icons-material/RestartAlt";
 export const InfosEssentielles = () => {
   return (
     <>
-      <Grid size={5}>
+      <Grid size={6}>
         <Card>
           <CardContent className="infos-essentielle">
             <p className="data">2 625,01€</p>
@@ -12,10 +12,10 @@ export const InfosEssentielles = () => {
           </CardContent>
         </Card>
       </Grid>
-      <Grid size={5}>
+      <Grid size={4}>
         <Card>
           <CardContent className="infos-essentielle">
-            <p className="data">2 648,23€</p>
+            <p className="data">3 jours</p>
             <p className="sous-titre">SALAIRE</p>
           </CardContent>
         </Card>
