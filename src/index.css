@@ -24,3 +24,7 @@ p.sous-titre {
   font-size: 0.85rem;
   color: gray;
 }
+
+#menu {
+  padding-top: 10px;
+}

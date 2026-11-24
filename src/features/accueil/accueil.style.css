@@ -6,11 +6,6 @@
   margin: 0;
 }
 
-#infos-epargnes {
-  padding-top: 8px !important;
-  padding-bottom: 16px !important;
-}
-
 #infos-epargnes-header {
   margin-bottom: 4px;
 }
@@ -26,7 +21,8 @@
   padding-bottom: 12px !important;
 }
 
-.infos-budget {
+.infos-budget,
+#infos-epargnes {
   padding: 12px !important;
 }
 

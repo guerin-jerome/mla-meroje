@@ -13,6 +13,7 @@ function App() {
   return (
     <main>
       <Tabs
+        id="menu"
         value={activeTab}
         variant="fullWidth"
         onChange={handleClickTab}
